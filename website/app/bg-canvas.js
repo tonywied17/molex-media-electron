@@ -308,11 +308,3 @@ export function drawRuler(canvasEl) {
     sec += 5;
   }
 }
-
-export default {
-  startBgCanvas,
-  stopBgCanvas,
-  animateCardCanvas,
-  animatePlayerVis,
-  drawRuler,
-};
